@@ -12,7 +12,7 @@
       { "network": "github", "username": "", "url": "http://github.com/" },
          { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
          { "network": "twitter", "username": "", "url": "http://twitter.com/" },
-      { "network": "instagram", "username": "tmorrison", "url": "http://instagram.com/tori_morrison20" }
+      {  "network": "instagram", "username": "tmorrison", "url": "http://instagram.com/tori_morrison20" }
     ]
   },
   "interests": [
