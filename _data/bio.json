@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "42071", "city": "Murray", "countryCode": "USA", "region": "North America" },
     "profiles": [
       { "network": "github", "username": "", "url": "http://github.com/" },
-         { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
+         { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" }
          { "network": "twitter", "username": "", "url": "http://twitter.com/" },
       {  "network": "instagram", "username": "tmorrison", "url": "http://instagram.com/tori_morrison20" }
     ]
