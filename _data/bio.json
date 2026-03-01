@@ -2,7 +2,8 @@
   "basics": {
     "name": "Tori Morrison",
     "label": "Student",
-    "picture": "https://github.com/torimorrison.png",
+    "_picture": "https://github.com/torimorrison.png",
+    "picture": "https://avatars.githubusercontent.com/u/260811441?v=4", 
     "email": "toricobb22@yahoo.com",
     "phone": "270-226-0524",
     "website": "https://tmorrison.io",
