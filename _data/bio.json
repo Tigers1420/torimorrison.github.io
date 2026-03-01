@@ -10,8 +10,10 @@
     "location": { "address": "", "postalCode": "42071", "city": "Murray", "countryCode": "USA", "region": "North America" },
     "profiles": [
       { "network": "github", "username": "tmorrison", "url": "http://github.com/torimorrison" },
-       # { "network": "linkedin", "username": "torimorrison", "url": "http://linkedin.com/in/changeme" },
-       # { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/" },
+       
+      # { "network": "linkedin", "username": "torimorrison", "url": "http://linkedin.com/in/changeme" },
+       
+      # { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/" },
       { "network": "instagram", "username": "tmorrison", "url": "http://instagram.com/tori_morrison20" }
     ]
   },
