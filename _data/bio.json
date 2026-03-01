@@ -9,11 +9,11 @@
     "summary": "I am studying for a A.S. in Information Technolgy at the University of Sullivan in Louisville KY. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "42071", "city": "Murray", "countryCode": "USA", "region": "North America" },
     "profiles": [
-      { "network": "github", "username": "tmorrison", "url": "http://github.com/torimorrison" },
+      { "network": "github", "username": "", "url": "http://github.com/" },
        
       # { "network": "linkedin", "username": "torimorrison", "url": "http://linkedin.com/in/changeme" },
        
-      # { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/" },
+      # { "network": "twitter", "username": "", "url": "http://twitter.com/" },
       { "network": "instagram", "username": "tmorrison", "url": "http://instagram.com/tori_morrison20" }
     ]
   },
