@@ -4,7 +4,6 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title:"Personal Budget Tracker"
 date:2026-01-03
-published: true
 labels:
   -JavaScript
   - HTML
